@@ -1,32 +1,92 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Gangitlla HariPrasad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>\
+  <h1 align="center">👋 Hi, I'm GANGITTLA HARIPRASAD</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gangitlla-hari&label=Profile%20views&color=0e75b6&style=flat" alt="gangitlla-hari" /> </p>
+<h3 align="center">
+   🚀 Passionate Web Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥 Tech Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangitlla-hari" alt="gangitlla-hari" /></a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=100&width=500&center=true&vCenter=true&lines=Web+Developer;B.Tech+Undergraduate;Exploring+Code+%26+Creativity..." alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
 
-- 🌱 I’m currently learning **full stuck on React**
-
-- 💬 Ask me about **Android,React**
-
-- 📫 How to reach me **hariprasad20987@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bhmu3by0N0kRD8PAwt2tQZRB1WrPnn-S/view?usp=drivesdk](https://drive.google.com/file/d/1bhmu3by0N0kRD8PAwt2tQZRB1WrPnn-S/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left">
-<a href="https://linkedin.com/in/gangittla-hariprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gangittla-hariprasad" height="30" width="40" /></a>
-<a href="https://instagram.com/g_hariiprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_hariiprasad" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/Photophile-%F0%9F%93%B8-lightblue" alt="Photophile badge" />
+<img src="https://img.shields.io/badge/B--Tech%20Grad-7.09%20CGPA-success" alt="B-Tech badge" />
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
+## 👋About 
+<div>
+  <ul>    
+            <li>🎓 I'm a B-Tech undergraduate student in Computer Science.</li>
+            <li>🚀 A tech enthusiast who loves exploring the world of programming.</li>
+            <li>🌱 Currently diving deeper into <strong>React & Flutter</strong>.</li>
+            <li>💡 I enjoy building creative, scalable, and clean user-centric software.</li>
+            <li>🧠 Always upskilling and staying updated with new technologies.</li>
+            <li>📄 Check out my <a href="https://drive.google.com/file/d/1bhmu3by0N0kRD8PAwt2tQZRB1WrPnn-S/view?usp=drivesdk" target="_blank">Resume</a></li>
+            <li>💼 Visit my <a href="" target="_blank">Portfolio</a></li>
+          </ul>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gangitlla-hari&show_icons=true&locale=en&layout=compact" alt="gangitlla-hari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangitlla-hari&show_icons=true&locale=en" alt="gangitlla-hari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gangitlla-hari&" alt="gangitlla-hari" /></p>
+---
+
+## 🔭 I'm Currently Working On
+
+- 🌐 Front-end projects with *React & Flutter*.
+- 🧠 Deepening expertise in the *Java full stack* and *backend APIs*.
+
+---
+
+## 🤝 Let's Collaborate
+
+If you're building with:  
+🛠* Html | Css | Javascript | React | Flutter | My SQL*  
+- Let's connect and create something cool💥
+- 📩 Drop a message or connect through links below ⬇
+
+---
+
+## 📫 Connect With Me
+
+<!-- Connect With Me -->
+
+<div align="center">
+ <td align="center" valign="top" style="padding: 20px;">
+        <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="xero-code" width="300" style="border-radius: 10px; border: 1px solid #e0e0e0;" />
+      </td>
+
+  <p align="center">
+  <p align="center">
+  <a href="mailto:hariprasad20987@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
+  <a href="https://github.com/Gangittla-hari" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
+  <a href="https://www.linkedin.com/in/gangittla-hariprasad-59072126b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
+  <a href="https://www.instagram.com/g_hariiprasad?igsh=OHo1bmZmcTBkaGxh"_blank"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
+</p>
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> "I never stop learning – every bug is a teacher in disguise!" 🐞🚀
+
+---
+
+## 🛠 Tools & Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,java,react,mysql,git,github,vscode,idea," />
+  </a>
+</p>
+
+---
+
+---
+<p align="center">Like the content !!! </p>
+<p align="center">Please give a ⭐ to the repository you like 😁</p>
+
+---
