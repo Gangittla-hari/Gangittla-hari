@@ -1,4 +1,4 @@
-  <h1 align="center">👋 Hi, I'm GANGITTLA HARIPRASAD</h1>
+<h1 align="center">👋 Hi, I'm GANGITTLA HARIPRASAD</h1>
 
 <h3 align="center">
    🚀 Passionate Web Developer &nbsp;|&nbsp; 🎓 B.Tech Undergraduate &nbsp;|&nbsp; 🖥 Tech Enthusiast
