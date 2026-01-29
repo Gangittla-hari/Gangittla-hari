@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 
-<img src="https://img.shields.io/badge/Photophile-%F0%9F%93%B8-lightblue" alt="Photophile badge" />
+
 <img src="https://img.shields.io/badge/B--Tech%20Grad-7.09%20CGPA-success" alt="B-Tech badge" />
   
 </p>
