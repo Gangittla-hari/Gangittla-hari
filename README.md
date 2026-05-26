@@ -51,8 +51,21 @@ If you're building with:
 ---
 
 ## 📫 Connect With Me
+<!-- Connect With Me -->
 <div align="center">
-
+ <td align="center" valign="top" style="padding: 20px;">
+        <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="xero-code" width="300" style="border-radius: 10px; border: 1px solid #e0e0e0;" />
+      </td>
+   </div>
+  <p align="center">
+  <p align="center">
+  <a href="mailto:hariprasad20987@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
+  <a href="https://github.com/Gangittla-hari" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
+  <a href="https://www.linkedin.com/in/gangittla-hariprasad-59072126b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
+  <a href="https://www.instagram.com/g_hariiprasad?igsh=OHo1bmZmcTBkaGxh"_blank"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
+</p>
+</div>
+      <div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -68,24 +81,6 @@ If you're building with:
   />
 </picture>
 
-</div>
-
-
-<!-- Connect With Me -->
-
-<div align="center">
- <td align="center" valign="top" style="padding: 20px;">
-        <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="xero-code" width="300" style="border-radius: 10px; border: 1px solid #e0e0e0;" />
-      </td>
-
-  <p align="center">
-  <p align="center">
-  <a href="mailto:hariprasad20987@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
-  <a href="https://github.com/Gangittla-hari" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
-  <a href="https://www.linkedin.com/in/gangittla-hariprasad-59072126b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
-  <a href="https://www.instagram.com/g_hariiprasad?igsh=OHo1bmZmcTBkaGxh"_blank"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
-</p>
-</div>
 
 ---
 
