@@ -62,10 +62,6 @@ If you're building with:
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph.svg"
   />
-   ### Let's Connect 🤝:
-Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **DevOps** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
-
-![GitHub GIF](githubgif.gif)
   <img
     alt="Pacman contribution graph"
     src="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph.svg"
