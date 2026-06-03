@@ -56,6 +56,4 @@ Currently focused on improving my JavaScript skills, building portfolio-worthy p
 
 ## 📌 Projects
 
-📌 Projects
-
 Explore my pinned repositories to see the projects I've built while learning web development. From responsive websites to JavaScript applications, each project reflects my growth, creativity, and passion for coding.
