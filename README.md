@@ -93,7 +93,7 @@ If you're building with:
 ## 🛠 Tools & Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,java,react,mysql,git,github,vscode,idea," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,vscode," />
   </a>
 </p>
 
