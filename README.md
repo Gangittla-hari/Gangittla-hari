@@ -1,6 +1,6 @@
 ![DenjiHead](https://raw.githubusercontent.com/jkdevcode/github-profile-assets/main/imgs/denji_friends.jpg)
 
-## 👋🏻 Hi, I'm Dario
+## 👋🏻 Hi, I'm Gangittla Hariprasad
 
 A passionate developer who enjoys turning ideas into interactive web experiences.
 
