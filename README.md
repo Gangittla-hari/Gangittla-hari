@@ -2,18 +2,22 @@
 
 ## 👋🏻 Hi, I'm Dario
 
-Backend Developer focused on building APIs and server-side applications using Node.js and NestJS.
+A passionate developer who enjoys turning ideas into interactive web experiences.
 
-I enjoy developing functional solutions, working on backend logic, and turning ideas into real applications. I use AI as a development tool to speed up workflows while keeping control over the implementation.
+I started my journey with frontend development and gradually developed an interest in how complete applications work behind the scenes. From designing user interfaces to exploring backend technologies, I love learning by building real projects.
+
+I believe that every project teaches something new, every bug improves problem-solving skills, and every line of code is a step toward becoming a better developer.
+
+Currently focused on improving my JavaScript skills, building portfolio-worthy projects, and growing toward full-stack development.
 
 ---
 
 ## ⚙️ Stack
 
-- **Backend:** Node.js, NestJS, Express
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** Git, Docker (learning), AI-assisted development
-- **Frontend (secondary):** React, TailwindCSS
+- **Backend:**  NodeJS, MongoDB, SQL 
+- **Databases:** PostgreSQL, MySQL 
+- **Tools:** Git, Docker (learning), AI-assisted development 
+- **Frontend:** HTML,CSS,Javascript, React (learning)
 
 ---
 
