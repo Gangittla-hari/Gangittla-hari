@@ -24,10 +24,10 @@ Currently focused on improving my JavaScript skills, building portfolio-worthy p
 
 ## 🚀 Current Focus
 
-- Building backend applications  
-- Improving programming logic  
-- Writing clean and maintainable code  
-- Learning better backend practices  
+- Building projects, not just tutorials
+- Improving JavaScript and problem-solving skills
+- Learning React and Backend Development
+- Creating a strong portfolio through real-world applications
 
 ---
 
