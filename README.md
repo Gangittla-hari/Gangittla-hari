@@ -1,6 +1,10 @@
 ![DenjiHead](https://raw.githubusercontent.com/jkdevcode/github-profile-assets/main/imgs/denji_friends.jpg)
 
 ## 👋🏻 Hi, I'm Gangittla Hariprasad
+<p align="center">
+  <a href="https://gangittla-portfolio.netlify.app/">🌐 Portfolio</a> •
+  <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a>
+</p>
 
 A passionate developer who enjoys turning ideas into interactive web experiences.
 
