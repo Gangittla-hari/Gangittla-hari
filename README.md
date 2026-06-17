@@ -1,7 +1,8 @@
 ![DenjiHead](https://raw.githubusercontent.com/jkdevcode/github-profile-assets/main/imgs/denji_friends.jpg)
 
 ## 👋🏻 Hi, I'm Gangittla Hariprasad
-[🌐 Portfolio](https://gangittla-portfolio.netlify.app/) | [💼 LinkedIn](https://www.linkedin.com/in/gangittla-hariprasad-59072126b)
+[Portfolio](https://gangittla-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/gangittla-hariprasad-59072126b)
+<br/>
 A passionate developer who enjoys turning ideas into interactive web experiences.
 
 I started my journey with frontend development and gradually developed an interest in how complete applications work behind the scenes. From designing user interfaces to exploring backend technologies, I love learning by building real projects.
