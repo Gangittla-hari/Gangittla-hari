@@ -1,14 +1,9 @@
 ![DenjiHead](https://raw.githubusercontent.com/jkdevcode/github-profile-assets/main/imgs/denji_friends.jpg)
 
 ## 👋🏻 Hi, I'm Gangittla Hariprasad
-<p align="center">
-  <a href="https://gangittla-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/gangittla-hariprasad-59072126b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+[🌐 Portfolio](https://gangittla-portfolio.netlify.app/)
+
+[💼 LinkedIn](https://www.linkedin.com/in/gangittla-hariprasad-59072126b)
 
 A passionate developer who enjoys turning ideas into interactive web experiences.
 
