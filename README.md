@@ -15,7 +15,7 @@ Currently focused on improving my JavaScript skills, building portfolio-worthy p
 
 ## ⚙️ Stack
 
-- **Frontend:** HTML,CSS,Javascript, React (learning)
+- **Frontend:** HTML, CSS, JavaScript, React (learning)
 - **Backend:**  NodeJS, MongoDB, SQL 
 - **Databases:** PostgreSQL, MySQL 
 - **Tools:** Git, Docker (learning), AI-assisted development 
